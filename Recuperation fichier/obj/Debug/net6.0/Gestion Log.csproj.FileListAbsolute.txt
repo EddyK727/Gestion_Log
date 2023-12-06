@@ -1,0 +1,5 @@
+C:\SIO\Projet log\C#\Gestion de LOG\Recuperation fichier\obj\Debug\net6.0\Gestion Log.csproj.AssemblyReference.cache
+C:\SIO\Projet log\C#\Gestion de LOG\Recuperation fichier\obj\Debug\net6.0\Gestion Log.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIO\Projet log\C#\Gestion de LOG\Recuperation fichier\obj\Debug\net6.0\Gestion Log.AssemblyInfoInputs.cache
+C:\SIO\Projet log\C#\Gestion de LOG\Recuperation fichier\obj\Debug\net6.0\Gestion Log.AssemblyInfo.cs
+C:\SIO\Projet log\C#\Gestion de LOG\Recuperation fichier\obj\Debug\net6.0\Gestion Log.csproj.CoreCompileInputs.cache
